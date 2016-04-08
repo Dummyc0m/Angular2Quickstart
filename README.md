@@ -7,7 +7,7 @@ the foundation for most of the documentation samples and potentially a good star
 
 Clone this repo into new project folder (e.g., `my-proj`).
 ```bash
-git clone  https://github.com/angular/quickstart  my-proj
+git clone git@github.com:Dummyc0m/Angular2Quickstart.git my-proj
 cd my-proj
 ```
 
